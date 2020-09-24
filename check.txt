@@ -1,0 +1,5 @@
+orig.txt和orig_0.8_add.txt相似度: 68.07%
+orig.txt和orig_0.8_del.txt相似度: 48.15%
+orig.txt和orig_0.8_dis_1.txt相似度: 70.21%
+orig.txt和orig_0.8_dis_10.txt相似度: 53.85%
+orig.txt和orig_0.8_dis_15.txt相似度: 34.23%
